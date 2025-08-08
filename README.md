@@ -40,10 +40,10 @@ These fundamental digital circuits are designed, implemented, and verified using
 | `halfadder_waveform.png`              | Half Adder Simulation Screenshot                 |
 | `full_adder_design.sv`           | Full Adder module                         |
 | `full_adder_tb.sv`        | Testbench for Full Adder                  |
-| `fulladder_waveform.png`              | Half Adder Simulation Screenshot                 |
+| `fulladder_waveform.png`              | Full Adder Simulation Screenshot                 |
 | `full_adder_using_half_adder_design.sv`  | Full Adder implemented using Half Adders  |
 | `full_adder_using_half_adder_tb.sv`     | Testbench for Full Adder using Half Adders|
-| `fulladder_using_halfadder_waveform.png`              | Half Adder Simulation Screenshot                 |
+| `fulladder_using_halfadder_waveform.png`              | Full Adder Using Half Adder Simulation Screenshot                 |
 
 ---
 
